@@ -1,0 +1,28 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+Data: [05/10/2023] Empresa: Abstergo Industries Responsável: [Rafael Palandi]
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa [Abstergo Industries], realizado por [Rafael Palandi]. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
+
+Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
+
+Medida 1: - [Identity and Access Management - O Identity and Access Management é parte essencial de um programa de segurança da informação, que garante que apenas usuários autorizados e autenticados possam acessar seus recursos e somente da forma que você pretender. Por exemplo, você deve definir entidades principais (ou seja, contas, usuários, funções e serviços que podem executar ações em sua conta), criar políticas alinhadas com essas entidades principais e implementar um gerenciamento forte de credenciais. Esses elementos de gerenciamento de privilégios formam o núcleo da autenticação e autorização.]
+
+Medida 2: - [Proteção de dados - Antes de criar a arquitetura de qualquer sistema, devem ser adotadas práticas fundamentais que influenciam a segurança. Por exemplo, a classificação de dados fornece uma maneira de categorizar os dados organizacionais com base nos níveis de sensibilidade, e a criptografia protege os dados ao torná-los ininteligíveis ao acesso não autorizado. Essas ferramentas e técnicas são importantes porque apoiam objetivos como evitar perdas financeiras ou cumprir obrigações regulatórias.
+
+Na AWS, as seguintes práticas facilitam a proteção de dados: Como um cliente da AWS, você mantém controle total de seus dados. A AWS torna mais fácil criptografar e gerenciar chaves, incluindo a rotação regular de chaves, que pode ser facilmente automatizada pela AWS ou mantida por você.]
+
+Medida 3: - [Segurança de aplicações - A segurança de aplicações (AppSec) retrata o processo geral de como projetar, criar e testar as propriedades de segurança das workloads desenvolvidas. Você precisa treinar a equipe adequadamente em sua organização, entender as propriedades de segurança de sua infraestrutura de compilação e lançamento e utilizar a automação para identificar problemas de segurança.
+
+Adotar testes de segurança de aplicações como parte regular do ciclo de vida de desenvolvimento de software (SDLC) e processos de pós-lançamento ajuda a garantir que você tenha um mecanismo estruturado para identificar, corrigir e impedir que problemas de segurança de aplicações entrem no ambiente de produção.]
+
+Conclusão
+A implementação de ferramentas na empresa [Abstergo Industries] tem como esperado orientar as pessoas de segurança em todas as organizações podem fazer é facilitar a segurança, deslocando o processo para tornar a ação mais fácil e desejável que seja quase a mais segura. Por exemplo, cada equipe não deve criar sua própria federação de identidade ou solução de log. Somos mais fortes quando trabalhamos juntos, e isso se aplica à proteção da nuvem também. O objetivo é tornar a segurança mais acessível para que os colegas de trabalho queiram conversar com a equipe de segurança porque eles sabem que é o lugar para obter ajuda, isso aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+Anexos
+[https://aws.amazon.com/pt/blogs/aws-brasil/top-10-dicas-de-seguranca-para-aperfeicoar-na-sua-conta-aws/]
+
+Assinatura do Responsável pelo Projeto:
+
+[Rafael Palandi]
